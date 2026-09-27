@@ -4,7 +4,7 @@
 ## //for manual open
 run this from frontend-->terminal 1---->npm run dev -- --host 0.0.0.0
 
-run this from face_recognition_project-->terimnal 2 ----->source venv/bin/activate
+run this from face_recognition_project-->terimnal 2 ----->source venv/bin/activate (this will run backend innside a vertual environment)
 
 run this from backend-->terminal 2 ----->uvicorn main:app --host 0.0.0.0 --port 8000
 
